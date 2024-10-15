@@ -14,8 +14,8 @@
 1. How did the idea for the company (or project) come about?
     - The idea for Dysolve emerged from Dr. Hoh's extensive research into neurological conditions.  As a consultancy, EduNational's initial focus was on designing intervention programs.  It later evolved into an AI firm, in order to build AI systems to address learning disabilities, like dyslexia.
 
-* How is the company funded? How much funding have they received?
-The company is primarily funded through monthly subscription from their customers at $222 for the Basic plan and $389 for the premier plan.
+1. How is the company funded? How much funding have they received?
+    - The company is primarily funded through monthly subscription from their customers at $222 for the Basic plan and $389 for the premier plan.
 
 ## Business Activities
 
