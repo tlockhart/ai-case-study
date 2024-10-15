@@ -52,10 +52,10 @@ The company is primarily funded through monthly subscription from their customer
     - EduNational has significantly influenced the education and healthcare sectors since its transition into an AI firm, achieving notable success despite being relatively small in size. It has reported between 1 to 5 million annual revenue since inception, despite having only 18 employees. EduNational continues to bring social awareness to the financial burden that outdated screening policies are placing on families and school districts.  For instance, Ortan Gillingham (OG/MLS) is a popular dyslexia intervention program, in the U.S.  In some states teachers are required to receive special training and certifications in this method, desite the lack of evidence to support the long-term efficacy of the program.  Disolve has positioned itself as a cost effective solution that can transform the Special Education system.  Case studies have proven academinc performance gains within 2 months of program completion, at [1% of the cost per student in New York, and under 10% of special education cost in state funding](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/).
 
 1. What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-    - According to [Zippia](https://www.zippia.com/carnegie-learning-careers-1012517/revenue/), the key financial metrics for Carnegie Learning's peroformance are peak revenue and revenue per employee ratio.  Although [EduNational's 4.6m in revenue]() is a fraction of Carnegie Learning's 22.4m 2023 revenue, EduNationals's revenue per employee outperforms Carnegie Learnings, which emphasizes its efficiency and impact relative to its size.  Carnegie Learnings revenue per 615 employees is 36,439, while EduNational's revenue per [18 employees](https://www.zoominfo.com/c/edunational-llc/1334565411) is 256k.
+    - According to [Zippia](https://www.zippia.com/carnegie-learning-careers-1012517/revenue/), the key financial metrics for Carnegie Learning's peroformance are peak revenue and revenue per employee ratio.  Although [EduNational's 2.6m in revenue](https://zi-lite.zoominfo.com/#/profile/company/1334565411/overview) is a fraction of Carnegie Learning's 22.4m 2023 revenue, EduNational's revenue per employee outperforms Carnegie Learnings, which emphasizes its efficiency and impact relative to its size.  Carnegie Learnings revenue per 615 employees is 36,439, while EduNational's revenue per [18 employees](https://www.zoominfo.com/c/edunational-llc/1334565411) is 145k.
 
 1. How is your company performing relative to competitors in the same field?
-    - EduNational is performing well in the intelligent systems field with a reported 2.6 million in revenue for 2023.  In terms of overal profits EduNational is ranked third place in comparison to top competitors, such as Carnegie Learning with 22.4m and LiteracyPlanet with 4.7m in reported revenue.
+    - EduNational is performing well in the intelligent systems field with a reported 2.6 million in revenue for 2023.  In terms of overal profits EduNational is ranked third place in comparison to top competitors, such as [Carnegie Learning with 22.4m](https://www.zippia.com/carnegie-learning-careers-1012517/revenue/) and [LiteracyPlanet with 4.7m](https://zi-lite.zoominfo.com/#/profile/company/354456212/overview) in reported revenue.
     - Despite its relatively small marketshare EduNational has managed to distiguish itself from Carnegie Learning, by emphasizing its dynamic game-based approach to detection and treatment, which creates a personalized treatment plan.
 ## Recommendations
 
@@ -68,14 +68,14 @@ The company is primarily funded through monthly subscription from their customer
 1. Why are these technologies appropriate for your solution?
     - Dysolve has proven itself to be an effective tool to identify defieciencies in linguistic processes by targeting the underlying tasks.  It can be reasonably assumed that the same approach would be effective in treating deficits in numerical reasoning.
 ## References
-1. Forbes: The Future of Education Disruption Caused By AI And ChatGPT: Artificial Intelligence Series ⅗
-1. 7: AI-powered Tutors: Your Virtual Sidekick for Personalized Support
-1. !0 Best AI Tutors Diversifying Learning Experience
-1. AI-powered computer software helps students with dyslexia
-1. Dysolve: Using AI To Beat Dyslexia Through Generative Games
-1. How A.I. Can Transform Special Education and Save Billions
-1. EduNational Financials
-1. EduNational Employees
-1. Carnegie Learning Finiancials
-1. Dysolve vs Carnegie Melon
-1. How DysolveAI Works
+1. [Forbes: The Future of Education Disruption Caused By AI And ChatGPT: Artificial Intelligence Series ⅗](https://www.forbes.com/sites/nicolesilver/2023/06/05/the-future-of-educationdisruption-caused-by-ai-and-chatgpt-artificial-intelligence-series-3-of-5/)
+1. [7: AI-powered Tutors: Your Virtual Sidekick for Personalized Support](https://www.linkedin.com/pulse/7-ai-powered-tutors-your-virtual-sidekick-support-vivek-chandra-qrhee/)
+1. [!0 Best AI Tutors Diversifying Learning Experience](https://pinlearn.com/best-ai-tutors/)
+1. [AI-powered computer software helps students with dyslexia](https://whyy.org/articles/ai-computer-software-dysolve-dyslexia-montgomery-county-student/#:~:text=Dysolve%20AI%2C%20an%20artificial%20intelligence,dyslexia%20improve%20their%20reading%20skills.)
+1. [Dysolve: Using AI To Beat Dyslexia Through Generative Games](https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/)
+1. [How A.I. Can Transform Special Education and Save Billions](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/)
+1. [EduNational Financials](https://zi-lite.zoominfo.com/#/profile/company/1334565411/overview)
+1. [EduNational Employees](https://www.zoominfo.com/pic/dysolve/1334565411)
+1. [Carnegie Learning Finiancials](https://www.zippia.com/carnegie-learning-careers-1012517/competitors/)
+1. [Dysolve vs Carnegie Melon](https://www.xdash.ai/search?q=How%20does%20Carnegie%20Learning%27s%20adaptive%20approach%20compare%20to%20Dysolve%27s%20dynamic%20game-based%20method%3F&rid=1gEnBWMUpEtqRf_AEyvkE)
+1. [How DysolveAI Works](https://www.technewsworld.com/story/ai-powered-software-offers-breakthrough-for-treating-dyslexia-178937.html)
