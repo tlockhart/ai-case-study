@@ -1,62 +1,69 @@
-# TITLE
+# Eliminating Dyslexia with AI Intelligent Systems
 
 ## Overview and Origin
 
-* Name of company : Disolve AI
+1. Name of company :  **EduNational**
 
-* When was the company incorporated? EduNational LLC was incorporated in New York in 2007 as a certified MWOSB (minority women-owned small business), to fill the needs of neurodiverse students.  In 2017 the company broadened its services to individuals with dyslexia with the Dysolve Program.
+1. When was the company incorporated? 
+    - EduNational LLC was [incorporated in New York in 2007](https://www.dysolve.com/wp-content/themes/dysolve/images/EduNational-Backgrounder-1.pdf) as a certified MWOSB (minority women-owned small business), to fill the needs of neurodiverse students.  In 2017 the company broadened its services to individuals with dyslexia with the Dysolve Program.
 
-* Who are the founders of the company?  EduNational LLC was originally founded in 2007 by Dr. Coral PS Hoh as a consultancy to address the needs neurodiverse individuals.  However, in 2017 Dr. Hoh partnered with co-founder Evan Haruta to transition the company into an AI firm.  As a result of this transition, the company was able to broaden its services to individuals with dyslexia, by creating the Dysolve Program.  
+1. Who are the founders of the company?  
+    - EduNational LLC was originally [founded in 2007 by Dr. Coral PS Hoh](https://www.dysolve.com/wp-content/themes/dysolve/images/EduNational-Backgrounder-1.pdf), as a consultancy, to address the needs neurodiverse individuals.  
+    - In 2017, [Dr. Hoh partnered with Evan Haruta](https://www.dysolve.com/wp-content/themes/dysolve/images/EduNational-Backgrounder-1.pdf) to transform the company into an AI-driven firm.  This transition enabled the company to broaden its services to individuals with dyslexia, by creating the Dysolve Program.  
 
-* How did the idea for the company (or project) come about?
-The idea for Dysolve came from Dr. Hoh's 30 years or research in the treatment of neurological conditions.  As a consultancy, EduNational designed and evaluated intervention programs for neurodiverse individuals in upstate New York and Hudson Valley.  It was during this time that Dr. Hoh began to realize the scale to which linguistic problems was disrupting the lives to students and families.  The team at EduNational then began building an autonoumous AI system to address a variety of learning disabilities.
+1. How did the idea for the company (or project) come about?
+    - The idea for Dysolve emerged from Dr. Hoh's extensive research into neurological conditions.  As a consultancy, EduNational's initial focus was on designing intervention programs.  It later evolved into an AI firm, in order to build AI systems to address learning disabilities, like dyslexia.
 
 * How is the company funded? How much funding have they received?
-The company is primarily funded by through montlhy subscription from their customers at $222 for the Basic edition and $389 for the premier edition.
+The company is primarily funded through monthly subscription from their customers at $222 for the Basic plan and $389 for the premier plan.
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
-Dysolve attempts to identify and correct a learners unique linguistic problems, by desiging a curriculum consisiting of game-based learning acivities, designed to strenthen the neurological pathways that are causing reading difficulties.    
+1. What specific problem is the company or project trying to solve?
+    - [Dysolve identifies and addresses each learner's unique linguistic challenges](https://whyy.org/articles/ai-computer-software-dysolve-dyslexia-montgomery-county-student/) by developing a curriculum of game-based learning activities. Each activity is designed to strengthen the neurological pathways that are causing reading difficulties.    
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-The software is designed for individuals experiencing difficulty reading, due to dyslexia, and other learning disorders.  Statistics indicate one in five people in the United States have dyslexia.  That accounts for roughly 20% of the U.S. population, which is approximately 66.8 million people.  That is 66.8 million people who read below grade level.
+1. Who is the company's intended customer? Is there any information about the market size of this set of customers?
+    - The software is designed for individuals experiencing difficulty reading, due to dyslexia, and other learning disorders.  Statistics indicate [one in five people in the United States have dyslexia](https://youtu.be/MRVK5boZriI).  That accounts for roughly 20% of the U.S. population, which is approximately 66.8 million people.  That is 66.8 million people who read below grade level.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Unlike traditional interventions, Dysolve does not use standard assessement tests to diagnose and treat neurodiverse individuals. Instead, the software designs an interactive verbal game-based activity, that constantly evaluates the language processing ability of an individual student for at least 15 minutes a day.  Once linguistic deficits are identified, the sytem is then able to design new game-based clearning activities to target and correct these issues. 
+1.  What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+    > "Unlike traditional interventions, Dysolve does not use standard assessement tests to diagnose and treat neurodiverse individuals."
+    > - Dr. Coral PS Hoh, Co-founder of Dysolve AI 
+    - Dysolve distinguishing itself by using AI-driven, interactive verbal game-based activities, that continuously evaluates the learner's language processing skills during each session.  Dysolves AI dynamically generates a game-based learning strategy based on the linguistic deficits found in the previous sessions.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+1. Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+    - Dysolve AI is a proprietary program that was uniquely designed over the past 10 years, prior to the availability of commercial AI products like OpenAI or Microsoft Azure AI services. [The system has been meticulously trained on national dyslexia databases and educational data compiled from diverse populations over several decades.](https://www.technewsworld.com/story/ai-powered-software-offers-breakthrough-for-treating-dyslexia-178937.html) Dysolve AI begins by assessing the user's linguistic abilities through their responses to a series of short, interactive games. Upon identifying specific linguistic deficits, the Dysolve AI model generates personalized follow-up games designed to target and remediate those issues. Each session serves as a continuous learning opportunity for the AI, enabling it to refine its approach and create an evolving game-based remediation strategy tailored to the individual needs of each user.
 ## Landscape
 
-* What field is the company in?
-The company is in the field of education and healthcare.  The company focusses on artificial intelligence for diagnosing and treating language-related disorders such as dyslexia and other related conditions. 
+1. What field is the company in?
+    - EduNational is in the field of education and healthcare.  The company focusses on artificial intelligence (AI) for diagnosing and treating language-related disorders such as dyslexia and other related conditions. The adoption of AI in educational tools has revolutionized personalized learning experiences, making real-time assessment and customized lesson plans possible.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-Over the past decade students suspected of having reading disability were required to be screened for dyslexia, in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.  In addition, AI embedded intelligent systems can compare an individual's current and previous performance, and evaluate it in relations to their peers.  
-
-Human linguistics is a complex, interlocking systems, that requires constant encoding and decoding during the communciation process.  It is nearly impossible to detect a deficit in this process through manual intervention.  AI embedded systems are not only capable of indentifying deficits in these computationally intense processes, it can also create a customized lesson plan to address the underlying issues.  For instance, AI intelligent systems can effectively interact with a user dynamically and extract relevant data to generate or modify a user model, in order to provide adaptive instruction to that user.  
+1. What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+    - Over the past decade students suspected of having reading disability were [required to be [screened for dyslexia](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.  In addition, AI embedded intelligent systems can compare an individual's current and previous performance, and evaluate it in relations to their peers.  
+    - [Human linguistics is a complex, interlocking systems](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), that requires constant encoding and decoding during the communciation process.  It is nearly impossible to detect a deficit in this process through manual intervention.  AI embedded systems are not only capable of indentifying deficits in these computationally intense processes, it can also create a customized lesson plan to address the underlying issues.  For instance, AI intelligent systems can effectively interact with a user dynamically and extract relevant data to generate or modify a user model, in order to provide adaptive instruction to that user.  
 * What are the other major companies in this field?
-FastForWard
-Brainware Learning
-Literacy Planet
-Blast Off Into Reading
+[Carnegie Learning - FastForWard](https://www.carnegielearning.com/solutions/literacy-ela/fast-forword/)
+[LiteracyPlanet](https://www.literacyplanet.com/)
+[Brainware Learning - Brainware Safari](https://mybrainware.com/brainware-safari/)
+[Blast Off Into Reading](https://blastofftolearning.com/blast-off-to-reading)
 
 ## Results
 
-* What has been the business impact of this company so far?
-The impact of this company so far has been to bring social awareness to the financial burden that outdated policies are placing on families and school districts.  For instance, Ortan Gillingham is a popular dyslexia intervention program in the U.S. that focuses on phonological awareness.  In fact, teachers are mandated to receive OG/MSL training or certifications is some states, although there is no evidence that supports the long-term efficacy of this program.  Alternatively, Dysolve case studies have demonstrated language processing improvements with weekly intervention.  Once the user reaches 90 to 100% efficiency in core areas, improvements in spelling test, and standardized testing is achieved. It has also proven its cost effectiveness at just 1% of the cost of special ed per student in New York, and under 10% of what states spend.
+1. What has been the business impact of this company so far?
+    - EduNational has significantly influenced the education and healthcare sectors since its transition into an AI firm, achieving notable success despite being relatively small in size. It has reported between 1 to 5 million annual revenue since inception, despite having only 18 employees. EduNational continues to bring social awareness to the financial burden that outdated screening policies are placing on families and school districts.  For instance, Ortan Gillingham (OG/MLS) is a popular dyslexia intervention program, in the U.S.  In some states teachers are required to receive special training and certifications in this method, desite the lack of evidence to support the long-term efficacy of the program.  Disolve has positioned itself as a cost effective solution that can transform the Special Education system.  Case studies have proven academinc performance gains within 2 months of program completion, at [1% of the cost per student in New York, and under 10% of special education cost in state funding](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/).
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+1. What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+    - According to [Zippia](https://www.zippia.com/carnegie-learning-careers-1012517/revenue/), the key financial metrics for Carnegie Learning's peroformance are peak revenue and revenue per employee ratio.  Although [EduNational's 4.6m in revenue]() is a fraction of Carnegie Learning's 22.4m 2023 revenue, EduNationals's revenue per employee outperforms Carnegie Learnings, which emphasizes its efficiency and impact relative to its size.  Carnegie Learnings revenue per 615 employees is 36,439, while EduNational's revenue per [18 employees](https://www.zoominfo.com/c/edunational-llc/1334565411) is 256k.
 
-* How is your company performing relative to competitors in the same field?
-
+1. How is your company performing relative to competitors in the same field?
+    - EduNational is performing well in the intelligent systems field with a reported 2.6 million in revenue for 2023.  In terms of overal profits EduNational is ranked third place in comparison to top competitors, such as Carnegie Learning with 22.4m and LiteracyPlanet with 4.7m in reported revenue.
+    - Despite its relatively small marketshare EduNational has managed to distiguish itself from Carnegie Learning, by emphasizing its dynamic game-based approach to detection and treatment, which creates a personalized treatment plan.
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+1. If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+    - I would recommend this company consider expanding to become the leader in special education intervention from K-12.  As such, it should incorporate products to treat comorbid conditions such as dyscalcula, which also affects individuals with dyslexia.  
+1. Why do you think that offering this product or service would benefit the company?
+    -  Expanding into dyscalculia treatment would not only generate a new revenue stream but also strengthen the company's position as a leader in comprehensive AI-based learning support.
+1. What technologies would this additional product or service utilize?
+    - The product would not require any new technologies, instead it would be an extension of the current technology to improve cogntivie process for a different type of disorder.
+1. Why are these technologies appropriate for your solution?
+    - Dysolve has proven itself to be an effective tool to identify defieciencies in linguistic processes by targeting the underlying tasks.  It can be reasonably assumed that the same approach would be effective in treating deficits in numerical reasoning.
