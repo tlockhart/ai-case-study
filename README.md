@@ -36,15 +36,14 @@ The company is primarily funded through monthly subscription from their customer
 
 1. What field is the company in?
     - EduNational is in the field of education and healthcare.  The company focusses on artificial intelligence (AI) for diagnosing and treating language-related disorders such as dyslexia and other related conditions. The adoption of AI in educational tools has revolutionized personalized learning experiences, making real-time assessment and customized lesson plans possible.
-
 1. What have been the major trends and innovations of this field over the last 5&ndash;10 years?
     - Over the past decade students suspected of having reading disability were [required to be [screened for dyslexia](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.  In addition, AI embedded intelligent systems can compare an individual's current and previous performance, and evaluate it in relations to their peers.  
     - [Human linguistics is a complex, interlocking systems](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), that requires constant encoding and decoding during the communciation process.  It is nearly impossible to detect a deficit in this process through manual intervention.  AI embedded systems are not only capable of indentifying deficits in these computationally intense processes, it can also create a customized lesson plan to address the underlying issues.  For instance, AI intelligent systems can effectively interact with a user dynamically and extract relevant data to generate or modify a user model, in order to provide adaptive instruction to that user.  
 * What are the other major companies in this field?
-[Carnegie Learning - FastForWard](https://www.carnegielearning.com/solutions/literacy-ela/fast-forword/)
-[LiteracyPlanet](https://www.literacyplanet.com/)
-[Brainware Learning - Brainware Safari](https://mybrainware.com/brainware-safari/)
-[Blast Off Into Reading](https://blastofftolearning.com/blast-off-to-reading)
+    - [Carnegie Learning - FastForWard](https://www.carnegielearning.com/solutions/literacy-ela/fast-forword/)
+    - [LiteracyPlanet](https://www.literacyplanet.com/)
+    - [Brainware Learning - Brainware Safari](https://mybrainware.com/brainware-safari/)
+    - [Blast Off Into Reading](https://blastofftolearning.com/blast-off-to-reading)
 
 ## Results
 
