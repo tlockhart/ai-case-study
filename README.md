@@ -67,3 +67,15 @@ The company is primarily funded through monthly subscription from their customer
     - The product would not require any new technologies, instead it would be an extension of the current technology to improve cogntivie process for a different type of disorder.
 1. Why are these technologies appropriate for your solution?
     - Dysolve has proven itself to be an effective tool to identify defieciencies in linguistic processes by targeting the underlying tasks.  It can be reasonably assumed that the same approach would be effective in treating deficits in numerical reasoning.
+## References
+1. Forbes: The Future of Education Disruption Caused By AI And ChatGPT: Artificial Intelligence Series ⅗
+1. 7: AI-powered Tutors: Your Virtual Sidekick for Personalized Support
+1. !0 Best AI Tutors Diversifying Learning Experience
+1. AI-powered computer software helps students with dyslexia
+1. Dysolve: Using AI To Beat Dyslexia Through Generative Games
+1. How A.I. Can Transform Special Education and Save Billions
+1. EduNational Financials
+1. EduNational Employees
+1. Carnegie Learning Finiancials
+1. Dysolve vs Carnegie Melon
+1. How DysolveAI Works
