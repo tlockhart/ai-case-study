@@ -4,7 +4,7 @@
 
 ## Overview and Origin
 
-1. ### Company Name:  **EduNational**
+1. ### Company Name:  [`EduNational`](https://dysolve.com/edunational/)
 
 1. ### Incorporation: 
     - EduNational LLC was [incorporated in New York in 2007](https://www.dysolve.com/wp-content/themes/dysolve/images/EduNational-Backgrounder-1.pdf) as a certified MWOSB (minority women-owned small business), to meet the needs of neurodiverse students. In 2017 the company broadened its services to individuals with dyslexia with the Dysolve Program.
@@ -43,6 +43,7 @@
 1.  ### Major Industry Trends:
     - Over the past decade students suspected of having reading disability were required to be [screened for dyslexia](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.
     - [Human linguistics is a complex, interlocking system](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/) that requires constant encoding and decoding during the communication process.  It is nearly impossible to detect a deficit in this process through human intervention.  However, the adoption of AI in educational tools has revolutionized personalized learning experiences, making real-time assessment and customized lesson plans possible.  
+    
     
     > "In recent years, AI’s ability to find patterns and develop personalized treatments and solutions has surpassed the skills of human practitioners."
     > - [Digital Wealth News](https://dwealth.news/2024/08/ai-education-can-ai-really-dissolve-dyslexia/)
@@ -88,3 +89,4 @@
 1. [How DysolveAI Works](https://www.technewsworld.com/story/ai-powered-software-offers-breakthrough-for-treating-dyslexia-178937.html)
 1. [Can AI change the brain?](https://www.siliconvalley.com/2024/07/03/can-ai-change-the-brain-co-founder-behind-revolutionary-dyslexia-treatment-says-yes/)
 1. [How AI can revolutionize dyslexia education, more](https://www.smartbrief.com/original/how-ai-can-revolutionize-dyslexia-education-more)
+1. [EduNational](https://dysolve.com/edunational/)
