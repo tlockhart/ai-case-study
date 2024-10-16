@@ -1,4 +1,6 @@
-# Eliminating Dyslexia with AI Intelligent Systems
+<p align="center"><img src="public/assets/images/logo.png"/></p><br/>
+
+# Disolving Dyslexia with AI Intelligent Systems
 
 ## Overview and Origin
 
@@ -43,7 +45,7 @@
     > "In recent years, AI’s ability to find patterns and develop personalized treatments and solutions has surpassed the skills of human practitioners."
     > - [Digital Wealth News](https://dwealth.news/2024/08/ai-education-can-ai-really-dissolve-dyslexia/)
     - AI embedded systems are not only capable of indentifying deficits in these computationally intense processes, it can also create a customized lesson plan to address the underlying issues.  For instance, AI intelligent systems can effectively interact with a user dynamically and extract relevant data to generate or modify a user model, in order to provide adaptive instruction to that user.  
-* What are the other major companies in this field?
+1. What are the other major companies in this field?
     - [Carnegie Learning - FastForWard](https://www.carnegielearning.com/solutions/literacy-ela/fast-forword/)
     - [LiteracyPlanet](https://www.literacyplanet.com/)
     - [Brainware Learning - Brainware Safari](https://mybrainware.com/brainware-safari/)
