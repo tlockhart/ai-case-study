@@ -39,7 +39,7 @@
 ## Landscape
 
 1.  ### Company Field:
-    - EduNational is in the field of education (EdTech) and healthcare.  The company focuses on artificial intelligence (AI) for diagnosing and treating language-related disorders such as dyslexia and other related conditions. 
+    - EduNational is in the field of education (EdTech) and healthcare.  The company focuses on artificial intelligence (AI) for diagnosing and treating language-related disorders such as dyslexia and other related conditions.  [Education technology](https://builtin.com/edtech) is a growing field that incorporates information and communication technology in the classroom to create a customized and more engaging learning experience. 
 1.  ### Major Industry Trends:
     - Over the past decade students suspected of having reading disability were required to be [screened for dyslexia](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.
     - [Human linguistics is a complex, interlocking system](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/) that requires constant encoding and decoding during the communication process.  It is nearly impossible to detect a deficit in this process through human intervention.  However, the adoption of AI in educational tools has revolutionized personalized learning experiences, making real-time assessment and customized lesson plans possible.  
@@ -88,3 +88,4 @@
 1. [Can AI change the brain?](https://www.siliconvalley.com/2024/07/03/can-ai-change-the-brain-co-founder-behind-revolutionary-dyslexia-treatment-says-yes/)
 1. [How AI can revolutionize dyslexia education, more](https://www.smartbrief.com/original/how-ai-can-revolutionize-dyslexia-education-more)
 1. [EduNational](https://dysolve.com/edunational/)
+1. [What Is Edtech?](https://builtin.com/edtech)
