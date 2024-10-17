@@ -43,8 +43,7 @@
 1.  ### Major Industry Trends:
     - Over the past decade students suspected of having reading disability were required to be [screened for dyslexia](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.
     - [Human linguistics is a complex, interlocking system](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/) that requires constant encoding and decoding during the communication process.  It is nearly impossible to detect a deficit in this process through human intervention.  However, the adoption of AI in educational tools has revolutionized personalized learning experiences, making real-time assessment and customized lesson plans possible.  
-    > "In recent years, AI’s ability to find patterns and develop personalized treatments and solutions has surpassed the skills of human practitioners."
-    > - [Digital Wealth News](https://dwealth.news/2024/08/ai-education-can-ai-really-dissolve-dyslexia/)
+    > "In recent years, AI’s ability to find patterns and develop personalized treatments and solutions has surpassed the skills of human practitioners." - [Digital Wealth News](https://dwealth.news/2024/08/ai-education-can-ai-really-dissolve-dyslexia/)
     
 1.  ### Main Competitors:
     - [Carnegie Learning - FastForWard](https://www.carnegielearning.com/solutions/literacy-ela/fast-forword/)
