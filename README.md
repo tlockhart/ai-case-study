@@ -26,14 +26,12 @@
         - `Complexity of the human brain`: Dyslexia and other language-based disorders involve processing deficits in the linguistic system that are impossible for humans to locate.
         - `Speed of language processing` : Human evaluators cannot measure brain processes that occur in hundreds of milliseconds in parallel.
         - `Capacity to serve one and all students` : Teachers cannot track all errors made by a student throughout their program to locate their sources and correct them.
-     <br>
      > "A traditional evaluation [costs] between $5,000-$10,000 per child.  [With Dysolve] every session...is [an] evaluation.  Schools can only [evaluate performance] at the beginning.  That's why there is a disconnect between the child's [previous performance] and new issues [that] come up." - [Dr. Coral PS Hoh, Co-founder of Dysolve AI](https://www.siliconvalley.com/2024/07/03/can-ai-change-the-brain-co-founder-behind-revolutionary-dyslexia-treatment-says-yes/) 
 1. ### Intended Customer:
     - The software is designed for individuals experiencing difficulty reading due to dyslexia, and other learning disorders.  Statistics indicate [one in five people in the United States have dyslexia](https://youtu.be/MRVK5boZriI).  That accounts for roughly 20% of the U.S. population, equivalent to approximately 66.8 million people.
 
 1. ### Competitive Advantage:
     - Dysolve sets itself apart with its personalized, game-based intervention programs, crafted through AI-driven assessments of the learner's language processing abilities during each session.
-    <br>
     > "When a person plays a game, certain targeted brain processes are activated for analysis. Which processes ran efficiently, and which ones did not? At what level of efficiency? This autonomous AI system delivers online games continuously to a person with dyslexia, using previous gameplay data to build the next game." - [Dr. Coral PS Hoh, Co-founder of Dysolve AI](https://builtin.com/articles/artificial-intelligence-and-dyslexia)
 
 1. ### Current Technologies
@@ -45,7 +43,6 @@
 1.  ### Major Industry Trends:
     - Over the past decade students suspected of having reading disability were required to be [screened for dyslexia](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/), in order to be enrolled in limited special education programs.  However, since schools already administer standardized reading assessments on a quarterly basis, a better solution would be to provide intervention for students performing in the bottom third on standardized tests.
     - [Human linguistics is a complex, interlocking system](https://observer.com/2024/09/new-yorks-dyslexia-bill-how-ai-can-transform-special-education-and-save-billions/) that requires constant encoding and decoding during the communication process.  It is nearly impossible to detect a deficit in this process through human intervention.  However, the adoption of AI in educational tools has revolutionized personalized learning experiences, making real-time assessment and customized lesson plans possible.  
-    <br>
     > "In recent years, AI’s ability to find patterns and develop personalized treatments and solutions has surpassed the skills of human practitioners."
     > - [Digital Wealth News](https://dwealth.news/2024/08/ai-education-can-ai-really-dissolve-dyslexia/)
     
