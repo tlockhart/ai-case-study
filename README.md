@@ -63,7 +63,9 @@
 ## Recommendations
 
 1.  ### Products and Services Expansion:
-    - EduNational should consider expanding to become the leader in special education intervention from K-12.  As such, it should incorporate products to treat related conditions such as dyscalculia or dysgraphia, which also affects individuals with dyslexia.  
+    - EduNational should consider expanding to become the leader in special education intervention from K-12.  As such, it should include products that address crossover conditions like dyscalculia and dysgraphia. According to the [Teaching Channel](https://www.teachingchannel.com/k12-hub/blog/dyslexia-dysgraphia-dyscalculia-difference/#:~:text=What%20Is%20Dyscalculia%3F,students%20with%20this%20learning%20difference), challenges in symbol recognition, language processing, and communication are common among dyslexia, dysgraphia, and dyscalculia. Consequently, overlapping teaching strategies may be effective in assisting students with these related conditions.
+        - [`Dyscalculia`](https://www.healthychildren.org/English/health-issues/conditions/learning-disabilities/Pages/Types-of-Learning-Problems.aspx): "A math learning disability characterized by difficulty in understanding and working with mathematical concepts and quantities."
+        - [`Dysgraphia`](https://www.healthychildren.org/English/health-issues/conditions/learning-disabilities/Pages/Types-of-Learning-Problems.aspx): "A learning disability that affects the physical act of writing, which can also impact typing and other fine motor skills."
 1.  ### Expansion Benefits:
     -  Expanding into treatments for related conditions would not only generate a new revenue stream, but also strengthen the company's position as a leader in comprehensive AI-based learning support.
 1.  ### Required Technologies for Expansion:
@@ -87,3 +89,5 @@
 1. [EduNational](https://dysolve.com/edunational/)
 1. [What Is Edtech?](https://builtin.com/edtech)
 1. [What is neurodiversity](https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645)
+1. [Understanding and Accommodating the Differences](https://www.teachingchannel.com/k12-hub/blog/dyslexia-dysgraphia-dyscalculia-difference/#:~:text=What%20Is%20Dyscalculia%3F,students%20with%20this%20learning%20difference)
+1. [Helping Kids Thrive](https://www.healthychildren.org/English/health-issues/conditions/learning-disabilities/Pages/Types-of-Learning-Problems.aspx)
